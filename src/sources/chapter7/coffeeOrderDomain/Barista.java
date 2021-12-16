@@ -1,4 +1,4 @@
-package sources.chapter7.coffeOrderDomain;
+package sources.chapter7.coffeeOrderDomain;
 
 /**
  * 바리스타 객체

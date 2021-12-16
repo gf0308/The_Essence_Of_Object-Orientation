@@ -1,4 +1,4 @@
-package sources.chapter7.coffeOrderDomain;
+package sources.chapter7.coffeeOrderDomain;
 
 /**
  * 커피 객체

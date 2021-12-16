@@ -1,4 +1,4 @@
-package sources.chapter7.coffeOrderDomain;
+package sources.chapter7.coffeeOrderDomain;
 
 import java.util.ArrayList;
 import java.util.List;
