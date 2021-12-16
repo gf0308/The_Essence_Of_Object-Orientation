@@ -5,7 +5,7 @@ package sources.chapter7.coffeeOrderDomain;
  *
  * */
 
-class Customer {
+public class Customer {
     // 커피를 주문하다
     public void order(String coffeeName, Menu menu, Barista barista) {
         // 메뉴판과 소통

@@ -4,7 +4,7 @@ package sources.chapter7.coffeeOrderDomain;
  * 커피 객체
  * */
 
-class Coffee {
+public class Coffee {
     private String name;
     private int price;
 

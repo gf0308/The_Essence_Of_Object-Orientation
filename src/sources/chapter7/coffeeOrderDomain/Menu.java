@@ -6,7 +6,7 @@ import java.util.List;
  * 메뉴판 객체
  */
 
-class Menu {
+public class Menu {
     private List<MenuItem> items;
 
     public Menu(List<MenuItem> items) {

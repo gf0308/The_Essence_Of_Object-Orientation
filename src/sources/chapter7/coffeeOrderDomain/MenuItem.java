@@ -4,7 +4,6 @@ package sources.chapter7.coffeeOrderDomain;
  * 메뉴항목 객체
  * */
 
-// 이따 not public 으로 바꿔볼것
 public class MenuItem {
     private String name;
     private int price;

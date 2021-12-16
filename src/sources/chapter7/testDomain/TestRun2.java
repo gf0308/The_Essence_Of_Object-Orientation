@@ -1,9 +1,13 @@
-package sources.chapter7.coffeeOrderDomain;
+package sources.chapter7.testDomain;
 
+import sources.chapter7.coffeeOrderDomain.Barista;
+import sources.chapter7.coffeeOrderDomain.Customer;
+import sources.chapter7.coffeeOrderDomain.Menu;
+import sources.chapter7.coffeeOrderDomain.MenuItem;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestRun {
+public class TestRun2 {
     public static void main(String[] args) {
         Customer customer = new Customer();
         String coffeeName = "카라멜마끼아또";
